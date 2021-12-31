@@ -1,4 +1,4 @@
-# Projects_BY_TOPICS
+# Credit_Projects
 ```
 Below are highlighes of my past projects including Caliration, Exotics Derivatives Pricing and xVA
 ```
